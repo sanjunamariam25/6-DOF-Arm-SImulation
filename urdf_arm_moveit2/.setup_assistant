@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: urdf_arm
+    relative_path: urdf/urdf_arm.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/manipulator.srdf
+  CONFIG:
+    author_name: ss
+    author_email: ss@gmail.com
+    generated_timestamp: 1580465878
